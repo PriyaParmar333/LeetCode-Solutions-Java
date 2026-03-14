@@ -23,7 +23,7 @@ public class TwoSum
     {
         int[] nums={3,4,5,6};
         int target=9;
-        int[] result=twoSum(nums,target);
+        int[] result=twoSum(nums,target);//function call
         System.out.println(result[0]+" "+result[1]);
     }
 }
