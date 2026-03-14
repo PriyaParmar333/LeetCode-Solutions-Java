@@ -19,7 +19,7 @@ public class TwoSum
         }
         return null;
     }
-    public static void main(String[] args)
+    public static void main(String[] args)//main function
     {
         int[] nums={3,4,5,6};
         int target=9;
